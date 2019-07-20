@@ -1,1 +1,1 @@
-print("Salam world");
+print("Salam world!");
